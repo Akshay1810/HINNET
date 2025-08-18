@@ -12,7 +12,7 @@ To address this, we present HINNet, the first deep neural network (DNN) pedestri
 
 ## Dataset Link
 
-The original dataset can be found on GitHub: [HINNet_Dataset](https://github.com/xinyuhou/HINNet)
+The original dataset can be found on GitHub: [HINNet_Dataset](https://github.com/Oxford-NIL/ROCIP)
 
 ### Trajectories
 Trajectories of HINNet Method: 
